@@ -1,12 +1,12 @@
 # GPT-3  🚀
 
-Transform Figma designs into sleek, responsive applications effortlessly.
+I have transformed Figma designs into sleek, responsive gpt-3 application effortlessly.
 
 🌐 **Live Demo:** [GPT-3](https://simphiwe-gpt3.netlify.app/)
 
 ## Features
 
-- **Figma to Reality:** Instantly convert designs into responsive apps.
+- **Figma to Reality:** Instantly converted designs into responsive apps.
 - **Modern Design:** Sleek and user-friendly interface.
 - **GPT-3 Magic:** Intelligent and natural language interactions.
 
